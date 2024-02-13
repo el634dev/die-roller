@@ -1,6 +1,8 @@
 /* Counter Component Container Styles */
 .Counter {
     display: flex;
+	justify-content: center;
+	margin-top: 5em;
 }
 
 /* Count Display */
